@@ -17,3 +17,4 @@ git checkout - switches to a different branch or commit.
 git pull - updates the local repository with changes from the remote repository.
 git push - sends changes to the remote repository.
 git clone - creates a copy of a remote repository to the local machine.
+lkm
