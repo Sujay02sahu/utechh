@@ -6,3 +6,14 @@ student section
 course section
 fee structure 
 classes timing
+artical section
+git init - initializes a new Git repository.
+git add - adds changes to the staging area.
+git commit - saves changes to the local repository.
+git status - shows the status of the repository.
+git log - shows the commit history.
+git branch - lists all branches in the repository.
+git checkout - switches to a different branch or commit.
+git pull - updates the local repository with changes from the remote repository.
+git push - sends changes to the remote repository.
+git clone - creates a copy of a remote repository to the local machine.
